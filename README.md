@@ -14,7 +14,6 @@ class About extends Me
         return [
             'company'    => 'Heaven Space',
             'position'   => 'CEO and Founder',
-            'department' => 'Developer Experience SDKs',
         ];
     }
 
