@@ -26,6 +26,7 @@ export default function Home() {
               Php::class,
               Laravel::class,
               Javascript::class,
+	      Express::class,
               React::class,
           ];
       }
@@ -78,7 +79,7 @@ export default function Home() {
             </div>
 
             <p class="mt-8">
-              <a href="https://github.com/csnntrt" rel="noreferrer">
+              <a href="https://github.com/johnmichaelarc" rel="noreferrer">
                 <span class="text-white">github</span>{" "}
                 <span class="underline">@csnntrt</span>
               </a>
