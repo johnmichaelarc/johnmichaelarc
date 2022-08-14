@@ -47,7 +47,7 @@ export default function Home() {
           <div class="max-w-xl">
             <h2 class="text-white text-xl">Howdy, Chael here. 👋</h2>
             <p>
-            I'm a Web Developer near Naga City, Philippines. I'm a Developer and Founder at{" "}
+            I'm a Software Engineer near Naga City, Philippines. I'm a Software Engineer and Founder at{" "}
               <a
                 href="https://heavenspace.online"
                 target="_blank"
@@ -81,7 +81,7 @@ export default function Home() {
             <p class="mt-8">
               <a href="https://github.com/johnmichaelarc" rel="noreferrer">
                 <span class="text-white">github</span>{" "}
-                <span class="underline">@csnntrt</span>
+                <span class="underline">@johnmichaelarc</span>
               </a>
               <br/>
               <a href="https://www.linkedin.com/in/chaelaracosta/" rel="noreferrer">
