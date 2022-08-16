@@ -1,5 +1,5 @@
 ### Howdy! Chael here. 👋
-#### I'm a Web Developer near Naga City, Philippines. I'm a Developer and Founder at [HeavenSpace](https://heavenspace.online).
+#### I'm a Software Engineer near Naga City, Philippines. I'm a Software Engineer and Founder at [HeavenSpace](https://heavenspace.online).
 ```php
 <?php
 
@@ -23,6 +23,7 @@ class About extends Me
             Php::class,
             Laravel::class,
             Javascript::class,
+	    Express::class,
             React::class,
         ];
     }
