@@ -15,8 +15,8 @@ export default function Home() {
       public function getWorkplace(): array
       {
           return [
-              'company'    => 'Heaven Space',
-              'position'   => 'CEO and Founder',
+              'company'    => "PureBlood x ZeroTrust,
+              'position'   => 'Founder',
           ];
       }
   
@@ -26,8 +26,8 @@ export default function Home() {
               Php::class,
               Laravel::class,
               Javascript::class,
-	      Express::class,
-              React::class,
+	            Express::class,
+              Python::class,
           ];
       }
   }`;

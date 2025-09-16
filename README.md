@@ -12,8 +12,8 @@ class About extends Me
     public function getWorkplace(): array
     {
         return [
-            'company'    => 'Heaven Space',
-            'position'   => 'CEO and Founder',
+            'company'    => 'PureBlood x ZeroTrust',
+            'position'   => 'Founder',
         ];
     }
 
@@ -23,8 +23,8 @@ class About extends Me
             Php::class,
             Laravel::class,
             Javascript::class,
-	    Express::class,
-            React::class,
+	          Express::class,
+            Python::class,
         ];
     }
 }
