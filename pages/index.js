@@ -39,7 +39,7 @@ export default function Home() {
           <div class="hidden w-full max-w-xs text-center lg:block">
             <Image
               class="rounded-full"
-              src="/meh.jpg"
+              src="/new.jpeg"
               width="125"
               height="125"
             />
